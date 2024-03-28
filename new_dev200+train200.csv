@@ -1,4 +1,4 @@
-No,Whole_Sentences,Fallacy Types,A (Irfan),A' (Irfan),C (Irfan),C' (Irfan),X (Irfan),Template # (Irfan),Arg Consequences,Template # (Paul),Arg Consequences,A (Paul),A' (Paul),C (Paul),C' (Paul),X (Paul),disagreement category,Inoue Annotation,Inoue Note
+No,Whole_Sentences,Fallacy Types,A (annotator 1),A' (annotator 1),C (annotator 1),C' (annotator 1),X (annotator 1),Template # (annotator 1),Arg Consequences,Template # (annotator 2),Arg Consequences,A (annotator 2),A' (annotator 2),C (annotator 2),C' (annotator 2),X (annotator 2),disagreement category,Other Annotation,Other Note
 1,We either have to cut taxes or leave a huge debt for our children.,False Dilemma,Cut taxes,,huge debt,,,2,YES,2,YES,cut taxes,,leave a huge debt for our children,,,,"X1: (we, cut, taxes)
 X2: (we, leave, a huge debt for our children)",
 2,"""The only solutions I can see to climate change is either mass extinction of humans, or passing this green bill.""",False Dilemma,mass extinction,,climate change,,,2,YES,2,YES,green bill,,mass extinction of humans,,,,"X1: (you, pass, this green bill)
