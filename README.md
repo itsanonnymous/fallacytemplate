@@ -36,10 +36,10 @@ Below, we describe the columns in `ftf_dataset.csv`.
 ### ftf_result
 Below, we describe the details of both CSV files inside the folder `ftf_result`.
 
-**Template Selection**: The result of the template selection task
-**Slot-filling**: The result of the slot-filling task for both `exact match` and `partial match` 
-**model name (Template Selection)**: In the `model` column, the format of the name for the template selection task is `model_name-shot(runtime)prompt`. For example, `gpt-4-1(10)pr1` means the model is gpt-4 using 1-shot prompt first type with 10 times running. 
-**model name (Slot-filling)**: In the `model` column, the format of the name for the slot-filling task is `model_name-shot-em/pm(runtime)prompt`. For example, `gpt-4-zero-em(10)pr2` means the model is gpt-4 using zero-shot prompt second type with 10 times running.
+- **Template Selection**: The result of the template selection task
+- **Slot-filling**: The result of the slot-filling task for both `exact match` and `partial match` 
+- **model name (Template Selection)**: In the `model` column, the format of the name for the template selection task is `model_name-shot(runtime)prompt`. For example, `gpt-4-1(10)pr1` means the model is gpt-4 using 1-shot prompt first type with 10 times running. 
+- **model name (Slot-filling)**: In the `model` column, the format of the name for the slot-filling task is `model_name-shot-em/pm(runtime)prompt`. For example, `gpt-4-zero-em(10)pr2` means the model is gpt-4 using zero-shot prompt second type with 10 times running.
 
 ### References
 [1] Zhijing Jin, Abhinav Lalwani, Tejas Vaidhya, Xiaoyu Shen, Yiwen Ding, Zhiheng Lyu, Mrinmaya Sachan, Rada Mihalcea, and Bernhard Schoelkopf. 2022. Logical fallacy detection. In Findings of the Association for Computational Linguistics: EMNLP 2022, pages 7180–7198, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics.
