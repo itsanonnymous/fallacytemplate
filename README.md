@@ -5,7 +5,8 @@ We present **Flee the Flaw (FtF)**, a dataset created for representing the struc
 ### Contents
 
 - **ftf\_dataset.csv**: Our Flee the Flaw (FtF) dataset.
-- **ftf\_result**: Folder that contains the results of running the LLM experiments 5 times and 10 times.
+- **ftf\_result**: Folder containing the results of running the LLM experiments 5 times and 10 times.
+- **ftf\_prompts**: Folder containing the prompts that were used for the LLM experiments.
 - **ftf_guidelines.pdf**: The guidelines used for creating FtF.
 
 
