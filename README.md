@@ -1,3 +1,5 @@
+### Overview
+
 We present **Flee the Flaw (FtF)**, a dataset created for representing the structure of fallacious arguments. Our dataset consists of 400 instances in total (200 dev and 200 train) split between four target fallacy types (false dilemma, faulty generalization, fallacy of credibility, false causality) taken from the LOGIC[1] dataset. Each fallacy type in our dataset consists of 100 total instances split between both sets (i.e., 50 dev and 50 train). 
 
 ### Contents
